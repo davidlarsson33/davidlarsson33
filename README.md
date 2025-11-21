@@ -1,6 +1,6 @@
 ## Hi mate 👋
 <img 
-  src="https://cdn.vectorstock.com/i/500p/49/03/hexagonal-tech-background-vector-60324903.jpg" 
+  src="blue.png" 
   alt="Banner" 
   width="100%" 
   style="height:30vh; object-fit:cover;"
