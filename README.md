@@ -1,6 +1,6 @@
-## Hi mate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## Greetings, honored visitor
 <img 
-  src="blue.png" 
+  src="gray.png" 
   alt="Banner" 
   width="100%" 
   style="height:30vh; object-fit:cover;"
